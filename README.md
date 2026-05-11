@@ -1,4 +1,3 @@
-# Segmentacion-de-objetos
 # Segmentación y Conteo de Objetos
 
 Proyecto de visión artificial para segmentar, detectar y contar objetos sobre una superficie de trabajo usando Python y OpenCV.
